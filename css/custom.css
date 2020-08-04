@@ -1,0 +1,15 @@
+.bg-primary {
+  background-color: #56AFA7 !important;
+}
+
+.text-primary {
+  color: #448C85 !important;
+}
+
+.social-icons .social-icon:hover {
+  background-color: #448C85;
+}
+
+#portfolio_info a {
+  margin-left: 2%;
+}
