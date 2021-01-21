@@ -2,19 +2,19 @@ const profile = {
   "about": {
     "name": "Karina",
     "surname": "Costa Baptista",
-    "email": "karinaharyah@gmail.com",
-    "contact": "Esteticista / Cosmetologa · +55 (11) 94473-6657 · ",
+    "email": "kcb.marketingdigital@gmail.com",
+    "contact": "Auxiliar Administrativo / Design Gráfico · +55 (11) 94473-6657 · ",
     "description": "Vida profissional pautada em grandes desafios. Sendo esta, a oportunidade ideal para demonstrar e desenvolver ainda mais habilidades e competências, absorver novos conhecimentos, e exercer o trabalho em equipe.",
     "networks": {
       "fab fa-linkedin-in": "https://www.linkedin.com/in/karina-costa-baptista-694988106/",
-      "fab fa-instagram": "https://instagram.com/est.karinacosta?igshid=1v6jx3144jp42",
+    
       "fab fa-whatsapp": "https://wa.me/qr/YPI4BCZB6RVID1",
     }
   },
   "interests": [
-    "Formada em Estética e Cosmetologia pela UNINOVE,  desde os 17 anos atuando  no segmento de cosméticos, tenho grande apreço pela área de treinamentos, adoro a sensação de levar conhecimento e informações  relevantes para pessoas , gosto muito de estudar sobre a anatomia da pele, e a  sua interação com dermocosméticos e cosmecêuticos. Pretendo me especializar em Cosmetologia, para adquirir novos conhecimentos relacionados à formulação e composição de produtos."
+    "Busco me estabelecer na área administrativa e de criação, me considero uma pessoa criativa e organizada, e pretendo alcançar uma posição onde eu possa desenvolver melhor as minhas habilidades. Atualmente estou estudando Programação Frontend com um mentor que possui  muitos anos de experiência na área. Em um futuro próximo pretendo cursar Design Gráfico para agregar  cada vez mais a área de criação."
   ],
-  "tech": "Estética e Cosmética: Embasamento teórico sobre anatomia, fisiopatologia e disfunções da pele, avaliação corporal, biossegurança, procedimentos e protocolos, aplicação de eletroterapia, microagulhamento, cosmecêuticos e dermocosméticos, princípios ativos e suas aplicações, aromaterapia e OE’s, noções básicas de massoterapia. Habilidades com rotinas administrativas: Experiência em alimentação e elaboração de planilhas, recebimento e envio de malotes, arquivação de documentos e Notas Fiscais, recebimento e transferência de mercadorias, agendamento de processos com empresas parceiras, controle de validade de produtos, análise de mercado (combate à concorrência), pedidos de materiais de escritório, auxílio a prevenção de perdas. Conhecimentos em design gráfico, wordpress (HTML, CSS - componentes customizados/widgets), UI/GUI, elaboração de arte vetorial, identidade visual, logotipo, cartão de visitas, cartilhas, cartazes, entre outros. Inglês avançado , com ênfase em escrita e leitura - Prática e comunicação diária com estrangeiros. Proativa, centrada e organizada.",
+  "tech": "Habilidades com rotinas administrativas:  Planilhas, auxílio em gerenciamento de equipe, malote e almoxarifado, controle financeiro, escala de folgas, adm comercial e logístico (controle de estoque, notas fiscais, gerenciamento de à vencer, FIFO). Design e Web: elaboração de arte vetorial, identidade visual, logotipo, cartão de visitas, cartilhas, cartazes, entre outros. Idiomas: Inglês avançado , com ênfase em escrita  e leitura. Espanhol Básico com boa compreensão. </br> </br> Estética e Cosmética: Embasamento teórico sobre anatomia, fisiopatologia e disfunções da pele, avaliação corporal, biossegurança, procedimentos e protocolos, aplicação de eletroterapia, microagulhamento, cosmecêuticos e dermocosméticos, princípios ativos e suas aplicações, aromaterapia e OE’s, noções básicas de massoterapia.",
   "education": {
     "Universidade Nove de Julho": {
       "subheading": "Estética e Cosmética",
@@ -28,9 +28,16 @@ const profile = {
     }
   },
   "experiences": {
+
+"Freelancer Design & Web ": {
+      "subheading": "Autônomo",
+      "description": "Com conhecimento voltado a área de Design (Identidade visual, logotipos, cartões de visita, flyers, e aplicações de softwares de arte vetorial e ilustração) Em programação, Frontend (Git e Github,HTML, CSS, JS, Trello) participo de projetos voltados para a área de desenvolvimento e manutenção de sites e criação.",
+      "timeframe": "Setembro 2019 – Presente"
+    },
+
     "Ito Andrade Cabeleireiros": {
       "subheading": "Auxiliar Administrativo",
-      "description": "Atuei no setor receptivo e administrativo, principalmente no atendimento ao público, desenvolvendo as funções de agendamento de clientes, fluxo de caixa, controle de estoque, mala direta, redes sociais.",
+      "description": "Atuei no setor administrativo e receptivo, onde  fui responsável pelo gerenciamento de agenda, controle financeiro e marketing voltado à redes sociais,  mala direta, promoções e visual merchandising.",
       "timeframe": "Maio 2019 – Agosto 2019"
     },
     "Beauty Box": {
